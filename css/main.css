@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+article{
+    border: 1px solid #bebebe;
+    border-left: 10px solid #bebebe;
+    padding: 10px;
+    margin: 40px auto;
+    width: 400px;
+}
